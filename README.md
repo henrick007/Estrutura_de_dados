@@ -1,2 +1,4 @@
-# Estrutura_de_dados
-Tudo sobre a matéria de estrutura de dados do meu 3ºsemestre da faculdade
+## Estrutura de Dados 💻
+
+Algumas coisas sobre o contedudo que aprendi na matéria de estrutura de dados do meu 3º semestre de faculdade.
+
